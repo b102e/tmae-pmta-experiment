@@ -7,7 +7,8 @@ This repository contains the code and reproducibility assets for the TMAE/PMTA e
 
 ## Links
 - Preregistration repository: [https://github.com/b102e/tmae-pmta-preregistration](https://github.com/b102e/tmae-pmta-preregistration)
-- OSF preregistration: [https://osf.io/](https://osf.io/) (submission target; final project link will be pinned here)
+- OSF preregistration: [https://osf.io/ugqbp/overview](https://osf.io/ugqbp/overview)
+- Registration DOI: [10.17605/OSF.IO/UGQBP](https://doi.org/10.17605/OSF.IO/UGQBP)
 - arXiv preprint: [https://arxiv.org/abs/2604.12016](https://arxiv.org/abs/2604.12016)
 
 ## Reproducibility

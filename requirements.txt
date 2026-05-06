@@ -1,0 +1,11 @@
+torch>=2.0
+transformers>=4.40
+numpy
+scipy
+scikit-learn
+sentence-transformers
+lifelines
+pingouin
+statsmodels
+pandas
+matplotlib
